@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **data visualization story-telling and dashboards**
 
-- 📌 I’m currently learning **Snowflake**
+- 📌 I’m currently learning **Google Colab**
 
 -  📎   All of my projects are available at [https://emilyhuang.dev/](https://emilyhuang.dev/)
 
