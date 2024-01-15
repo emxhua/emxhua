@@ -1,9 +1,9 @@
-<h1 align="left">Hey! I'm Emily.</h1>
-<h3 align="left">I'm an aspiring Data Analyst / Scientist who enjoys learning optimal ways to improve decision-making.</h3>
+<h1 align="left">Hi! I'm Emily.</h1>
+<h3 align="left">I'm a Data Scientist.</h3>
 
 - 🌱 I’m currently working on **data visualization story-telling and dashboards** skills
 
-- 📌 I’m currently learning **Google Colab** in my free-time
+- 📌 I’m currently learning **Neural Networks** in my free-time
 
 -  📎   All of my projects are available at [https://emilyhuang.dev/](https://emilyhuang.dev/)
 
